@@ -8,8 +8,5 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 Creating a new branch is quick and simple.
 I AM SORRY
-<<<<<<< HEAD
 Git a free software .......
-=======
 i am sorry
->>>>>>> dev
